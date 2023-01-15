@@ -1,0 +1,22 @@
+{
+  "name": "hr-countdown-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bootstrap": "^5.2.6",
+    "@types/jquery": "^3.5.14",
+    "jquery": "^3.6.2",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@types/uuid": "^9.0.0",
+    "uuid": "^9.0.0"
+  }
+}
